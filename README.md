@@ -1,1 +1,1 @@
-# SwordVR
+# Samurai-Sword-Z_VR
