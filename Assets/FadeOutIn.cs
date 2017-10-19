@@ -14,7 +14,7 @@ public class FadeOutIn : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (renderer.material.color.a >= 0)
-            renderer.material.color -= alpha;
+        //if (renderer.material.color.a >= 0)
+        //    renderer.material.color -= alpha;
     }
 }
